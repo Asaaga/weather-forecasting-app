@@ -1,0 +1,43 @@
+h1 { 
+    color: grey;
+}
+body {
+    padding:0;
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    text-align: center;
+    background-image: linear-gradient(to right, #bbcbdf, #729cb6)
+}
+input {
+    padding: 10px;
+    width:400px;
+    border-color: white;
+}
+h5 {
+    font-size: 20px;
+    color:grey;
+}
+button {
+    padding:10px;
+    background-color: rgb(131, 143, 139);
+    color:white;
+    width:100px;
+    border-color: white;
+}
+button:hover{
+    color: rgb(131, 143, 139);
+    background-color: whitesmoke;
+    border-radius:10px;  
+}
+
+#p1 {
+    color: grey;
+}
+#p2 {
+    color: grey;
+}
+input {
+    color: gray;
+    font-size: 15px;
+}
